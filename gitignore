@@ -1,9 +1,0 @@
-app.env
-.venv/
-chroma_db/
-uploads/
-logs/
-third_party/
-__pycache__/
-*.pyc
-.DS_Store
